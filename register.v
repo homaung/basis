@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 module register ( data,
                   reset,
                   q,
