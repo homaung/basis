@@ -14,7 +14,7 @@ input  [2:0] data;
 output [2:0] q;
 
 // wire & regs
-reg         [      2:0]  mem[0:4]  ;
+    reg         [      2:0]  mem[4:0]  ;
 reg         [      4:0]  r_addr     ;
 
 
